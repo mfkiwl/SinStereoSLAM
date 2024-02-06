@@ -1,11 +1,15 @@
-CMakeLists.txt.user
-CMakeCache.txt
-CMakeFiles
-CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
-_deps
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# JetBrains Rider
+.idea/
+
+# Python Tools
+__pycache__/
+*.pyc
+
+# CMake Build Directory
+build/
+cmake-build-debug/
+cmake-build-release/
